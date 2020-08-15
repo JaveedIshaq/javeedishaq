@@ -1,20 +1,11 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javeedishaq&label=Profile Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
-<a href="https://www.linkedin.com/in/shivani-gupta-22b6b8171/">
-  <img align="left" alt="Shivani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/javeed-ishaq/">
+  <img align="left" alt="Javeed Ishaq's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100005871032037">
-  <img align="left" alt="Shivani's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-  
-  <a href="https://github.com/shivanigupta19">
-  <img align="left" alt="Shivani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://web.telegram.org/#/shivani_gupta_57">
-  <img align="left" alt="Shivani's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/shivani_gupta_57/">
-  <img align="left" alt="Shivani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://web.facebook.com/javeedishaq">
+  <img align="left" alt="Javeed Ishaq's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
   
   <br/>
@@ -23,9 +14,8 @@
 - 🔭 I’m currently working on [FlutterCasa](https://www.flutter.casa/)
 - 🌱 I’m currently learning Android Kotlin
 - 🤔 I’m looking for help with Project Managment
-- 💬 Ask me about Flutter / Androi
+- 💬 Ask me about Flutter / Android
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/javeed-ishaq/)
-- 😄 Pronouns: She / Her 
 - ⚡ Fun fact: 
 
 **Languages and Tools:**  
