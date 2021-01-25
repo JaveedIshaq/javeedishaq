@@ -1,12 +1,13 @@
 ### Hi there, I'm <a href="https://www.javeedishaq.com/" target="_blank">Javeed Ishaq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://stackoverflow.com/users/4778545/javeedishaq"><img src="https://stackoverflow.com/users/flair/4778545.png" width="208" height="58" alt="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/javeed-ishaq/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.javeedishaq.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javeedishaq)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://javeedishaq.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/javeedishaq)
-[![Facebook Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/4778545/javeedishaq)
-<a href="https://stackoverflow.com/users/4778545/javeedishaq"><img src="https://stackoverflow.com/users/flair/4778545.png" width="208" height="58" alt="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JaveedIshaq.javeedishaq)
 
