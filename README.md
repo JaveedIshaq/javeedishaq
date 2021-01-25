@@ -1,5 +1,4 @@
 ### Hi there, I'm <a href="https://www.javeedishaq.com/" target="_blank">Javeed Ishaq</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <a href="https://stackoverflow.com/users/4778545/javeedishaq"><img src="https://stackoverflow.com/users/flair/4778545.png" width="208" height="58" alt="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
