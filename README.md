@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/javeedishaq)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://javeedishaq.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/javeedishaq)
-[![Facebook Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=white)](https://www.facebook.com/javeedishaq)
+[![Facebook Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/4778545/javeedishaq)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JaveedIshaq.javeedishaq)
 
