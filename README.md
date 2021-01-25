@@ -6,6 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://javeedishaq.medium.com/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/javeedishaq)
 [![Facebook Badge](https://img.shields.io/badge/-stackoverflow-0088cc?style=flat-square&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/4778545/javeedishaq)
+<a href="https://stackoverflow.com/users/4778545/javeedishaq"><img src="https://stackoverflow.com/users/flair/4778545.png" width="208" height="58" alt="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for javeedishaq at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JaveedIshaq.javeedishaq)
 
