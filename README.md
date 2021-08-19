@@ -22,7 +22,7 @@ A passionate Software Developer, who currently loves to build mobile apps using 
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://javeedishaq.medium.com/);
 - 📫 How to reach me: ishaqjaveed1@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1ipFeRyx_I7BdA7P3mSpkInTkjOwbytrr/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1T7t0Ba-bVy6rSIMuQF2_qDQjbdZokz4N/view?usp=sharing).
 
 </br>
 
