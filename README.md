@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=JaveedIshaq.javeedishaq)
 
-A passionate Software Developer, who currently loves to build mobile apps using Flutter,with 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Express/ NodeJs / Spring / Android Kotlin / Dart / Flutter and Firebase.
+I am a passionate Software Developer, I love to build mobile apps. My expertise is Flutter, Android, Kotlin, Jetpack Compose, and Firebase.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
