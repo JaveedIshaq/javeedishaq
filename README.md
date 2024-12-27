@@ -30,9 +30,9 @@ I am a passionate Software Developer, I love to build mobile apps. My expertise 
 
 <h3>My Skills</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,dart,angular,java,spring,postgresql,python,nodejs,scss,wordpress,react" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,android,kotlin,angular,java,spring,postgresql,python,nodejs,scss,wordpress,react" />
   </a>
 </p>
 
