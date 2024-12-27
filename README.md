@@ -40,7 +40,6 @@ Markdown     18 mins            ▒░░░░░░░░░░░░░░░
 
 📈 **My GitHub Stats:**
 
-<p>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javeedishaq&theme=codeSTACKr) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javeedishaq&theme=codeSTACKr) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javeedishaq&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=javeedishaq&theme=codeSTACKr)
-</p>
+
