@@ -41,6 +41,6 @@ Markdown     18 mins            ▒░░░░░░░░░░░░░░░
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javeedishaq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeedishaq&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javeedishaq&theme=codeSTACKr) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javeedishaq&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=javeedishaq&theme=codeSTACKr)
 </p>
