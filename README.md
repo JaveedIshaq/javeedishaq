@@ -32,7 +32,7 @@ I am a passionate Software Developer, I love to build mobile apps. My expertise 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,dart,android,kotlin,angular,java,spring,postgresql,python,nodejs,scss,wordpress,react" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,androidstudio,kotlin,angular,java,spring,postgresql,python,nodejs,tailwind,firebase,wordpress,react,figma,js,mysql,nestjs" />
   </a>
 </p>
 
