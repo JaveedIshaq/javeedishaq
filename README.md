@@ -25,6 +25,8 @@ I am a passionate Software Developer, I love to build mobile apps. My expertise 
 - ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=javeedishaq)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/javeedishaq/javeedishaq)
 
 </br>
+</br>
+</br>
 
 <h3>My Skills</h3>
 
