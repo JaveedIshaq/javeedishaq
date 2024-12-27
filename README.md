@@ -17,25 +17,23 @@ I am a passionate Software Developer, I love to build mobile apps. My expertise 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/javeedishaq);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://javeedishaq.medium.com/);
-- 📫 How to reach me: ishaqjaveed1@gmail.com;
-- 📝 [Resume](https://drive.google.com/file/d/1T7t0Ba-bVy6rSIMuQF2_qDQjbdZokz4N/view?usp=sharing).
+- 🔭 I’m currently working as a Freelancer
+- 🌱 Switching my career from Software engineering to AI & Machine learning 
+- 👯 Looking to collaborate on big projects
+- 🤔 You are welcome to collaborate in my projects
+- 📫 How to reach me: ishaqjaveed1@gmail.com
+- ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=javeedishaq)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/javeedishaq/javeedishaq)
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Flutter         15 hrs 5 mins   █████████████████▒░░░░░░░   69.29 % 
-Android/Kotlin   2 hrs 58 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-React          2 hrs 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Other        32 mins            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Markdown     18 mins            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
-<!--END_SECTION:waka-->
+<h3>My Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,dart,angular,java,spring,postgresql,python,nodejs,scss,wordpress,react" />
+  </a>
+</p>
+
 
 
 📈 **My GitHub Stats:**
